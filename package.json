@@ -1,0 +1,25 @@
+{
+  "name": "unit-convertor",
+  "version": "1.0.0",
+  "description": "A utility package to convert units like meters to kilometers, celcius to fahrenheit, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakhan789/NPM_Assignment.git"
+  },
+  "keywords": [
+    "unit",
+    "convertor",
+    "utilities",
+    "npm-package"
+  ],
+  "author": "Ayesha Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakhan789/NPM_Assignment/issues"
+  },
+  "homepage": "https://github.com/ayeshakhan789/NPM_Assignment#readme"
+}
