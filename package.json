@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ayeshakhan789/NPM_Assignment/issues"
   },
-  "homepage": "https://github.com/ayeshakhan789/NPM_Assignment#readme"
+  "homepage": "https://github.com/ayeshakhan789/NPM_Assignment#readme",
+  "dependencies": {
+    "unit-convertor": "^1.0.0"
+  }
 }
